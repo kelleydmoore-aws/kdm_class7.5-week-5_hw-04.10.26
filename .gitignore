@@ -6,6 +6,9 @@
 *.tfstate
 *.tfstate.*
 
+# executables
+*.exe
+
 # Crash log files
 crash.log
 crash.*.log
